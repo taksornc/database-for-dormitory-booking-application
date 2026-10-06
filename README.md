@@ -23,9 +23,8 @@
 ---
 
 ## 📊 ER Diagram (Entity-Relationship Diagram)
-*(แปะรูปภาพ ER Diagram ของคุณที่นี่)*
 
-![ER Diagram](./docs/er-diagram.png)
+  ...............
 
 ---
 
